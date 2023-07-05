@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a data scientist currently working for one of the largest telecommunications and digital service companies in Indonesia. I enjoy diving into data to uncover hidden facts and trends with the goal of solving everyday problems and business challenges.. Feel free to use anything from my repositories and let's learn and grow together.
 
 <!--
 **akbarrbar/akbarrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
